@@ -1,6 +1,5 @@
 payload:
     - +.proxy-sale.com
     - +.ifixit.com
-    - +.ru.ifixit.com
-    - +.assets.cdn.ifixit.com
-    - +.myanimelist.net
+    - +.myanimelist.net 
+    - +.animejoy.ru
